@@ -1,3 +1,9 @@
 # 알고리즘 공부
 
-1. Two Pointers
+<1주차>
+
+- Two Pointers
+
+<2주차>
+- Sliding Window
+- Prefix Sum
