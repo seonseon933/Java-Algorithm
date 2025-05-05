@@ -16,5 +16,7 @@
 
 ## Hashing
 
-<4주차>
-- Checking for existence, Counting
+<4주차, 5주차>
+- Checking for existence, Counting, 그 외의 Hashing 추가 문제
+<6주차>
+- Checking for existence, Counting 추가 문제
