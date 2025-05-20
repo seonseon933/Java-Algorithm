@@ -20,3 +20,12 @@
 - Checking for existence, Counting, 그 외의 Hashing 추가 문제
 <6주차>
 - Checking for existence, Counting 추가 문제
+
+## Heap
+
+<7주차>
+- Heap
+- Top_K
+
+## Binary Trees
+- BFS, DFS, BST
