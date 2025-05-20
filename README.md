@@ -14,18 +14,15 @@
 <3주차>
 - Two Pointers, Sliding Window, Prefix Sum의 보너스 문제
 
-## Hashing
-
 <4주차, 5주차>
-- Checking for existence, Counting, 그 외의 Hashing 추가 문제
+- Hashing: Checking for existence, Counting, 그 외의 Hashing 추가 문제
 <6주차>
-- Checking for existence, Counting 추가 문제
-
-## Heap
+- Hashing: Checking for existence, Counting 추가 문제
 
 <7주차>
 - Heap
-- Top_K
 
-## Binary Trees
-- BFS, DFS, BST
+<8주차>
+- BFS
+- DFS
+- BST
