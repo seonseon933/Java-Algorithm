@@ -1,4 +1,4 @@
-package Binary_Trees.BFS.P103_Binary_Tree_Zigzag_Level_Order_Traversal;
+package Binary_Trees.BFS_DFS.P103_Binary_Tree_Zigzag_Level_Order_Traversal;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

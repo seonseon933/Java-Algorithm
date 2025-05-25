@@ -1,4 +1,4 @@
-package Binary_Trees.DFS.p1026_Maximum_Difference_Between_Node_and_Ancestor;
+package Binary_Trees.BFS_DFS.p1026_Maximum_Difference_Between_Node_and_Ancestor;
 
 public class p1026_Maximum_Difference_Between_Node_and_Ancestor {
     public class TreeNode {
