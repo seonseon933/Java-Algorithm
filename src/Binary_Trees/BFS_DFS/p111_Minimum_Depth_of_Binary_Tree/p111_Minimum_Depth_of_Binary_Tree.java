@@ -1,4 +1,4 @@
-package Binary_Trees.DFS.p111_Minimum_Depth_of_Binary_Tree;
+package Binary_Trees.BFS_DFS.p111_Minimum_Depth_of_Binary_Tree;
  
 public class p111_Minimum_Depth_of_Binary_Tree {
     public class TreeNode {

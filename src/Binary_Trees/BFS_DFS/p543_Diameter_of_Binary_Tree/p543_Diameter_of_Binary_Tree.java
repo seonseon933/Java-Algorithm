@@ -1,4 +1,4 @@
-package Binary_Trees.DFS.p543_Diameter_of_Binary_Tree;
+package Binary_Trees.BFS_DFS.p543_Diameter_of_Binary_Tree;
 
 public class p543_Diameter_of_Binary_Tree {
     public class TreeNode {

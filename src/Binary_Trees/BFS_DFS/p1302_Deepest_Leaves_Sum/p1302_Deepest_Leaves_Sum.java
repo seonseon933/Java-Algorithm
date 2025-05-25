@@ -1,4 +1,4 @@
-package Binary_Trees.BFS.p1302_Deepest_Leaves_Sum;
+package Binary_Trees.BFS_DFS.p1302_Deepest_Leaves_Sum;
 
 import java.util.LinkedList;
 import java.util.Queue;
